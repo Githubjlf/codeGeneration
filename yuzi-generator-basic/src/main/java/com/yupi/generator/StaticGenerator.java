@@ -61,6 +61,7 @@ public class StaticGenerator {
      * @param outputFile
      * @throws IOException
      */
+    //
     private static void copyFileByRecursive(File inputFile, File outputFile) throws IOException {
         // 区分是文件还是目录
         if (inputFile.isDirectory()) {

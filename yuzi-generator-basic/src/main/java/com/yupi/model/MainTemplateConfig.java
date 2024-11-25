@@ -9,7 +9,7 @@ public class MainTemplateConfig {
 
     /**
      * 是否生成循环
-     */
+     *///
     private boolean loop;
 
     /**
